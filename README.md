@@ -25,7 +25,7 @@ npm install
 
 Для запуска серверной части выполните:
 ```sh
-npm run dev
+node backend/index.js
 ```
 
 Проект будет доступен по адресу: `http://localhost:3000`
